@@ -19,6 +19,10 @@ const newFeature5 = function () {
   console.log("New feature4");
 };
 
+const feature_optional = function () {
+  console.log("New optional feature");
+};
+
 const init = function () {
   newFeature1();
   newFeature2();

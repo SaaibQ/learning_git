@@ -15,6 +15,10 @@ const newFeature4 = function () {
   console.log("New feature4");
 };
 
+const newFeature5 = function () {
+  console.log("New feature4");
+};
+
 const init = function () {
   newFeature1();
   newFeature2();
